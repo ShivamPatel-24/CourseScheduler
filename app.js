@@ -17,8 +17,15 @@ app.get('/', (req, res) => {
 app.post('/', (req, res) => {
     let item = req.body.newItem;
 
-        classes.push(item);
-        res.redirect("/");
+    classes.push(item);
+    res.redirect("/");
+
+    if (req.body.gButton === "true") console.log("clicked!");
+
+})
+
+app.get('/schedules', (req, res) => {
+    res.render("schedules");
 })
 
 app.listen(3000);
