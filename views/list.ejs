@@ -1,20 +1,24 @@
 <%- include("header") %>
     <div class="box" id="heading">
-        <h1><%= listTitle %></h1>
+        <h1 id="headerText">Add classes to generate schedules</h1>
     </div>
     
     <div class="box">
         <%for (var i = 0; i < listItems.length; i++) { %>
             <div class="item">
-                <input type="checkbox">
                 <p><%= listItems[i] %></p>
             </div>           
        <%}%>
 
         <form class="item" action="/" method="post">
-            <input type="text" name="newItem" id="list" placeholder="New Item">
-            <button type="submit" name="list" value="<%= listTitle %>">+</button>
+            <input type="text" name="newItem" id="list" placeholder="Add a class">
+            <button class="addButton" type="submit" name="list">+</button>
         </form>
+
+        
     </div>
+    <button type="button" class="btn btn-success btn-lg col-3">Generate Schedules</button>
+
+    
 
 <%- include("footer") %>
