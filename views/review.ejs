@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Class Recommandation System</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/styles2.css">
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-header">
+        <p class="navbar-brand">Write a new review</p>
+      </div>
+
+    </div>
+  </nav>
+
+  <body background = "https://wallup.net/wp-content/uploads/2019/10/593967-clemson-tigers-college-football.jpg">
+    <div class="container">
+
+        <h1> Compose </h1>
+
+        <form action="/compose" method="post">
+            <div class="form-group">
+              <label for="title">Course name and/or instructor</label>
+              <input type="text" class="form-control" id="title" name="postTitle">
+            </div>
+            <div class="form-group">
+                <label for="Textarea">Post</label>
+                <textarea class="form-control" id="Textarea" name="postBody" rows="6"></textarea>
+            </div>
+    
+            <div class="container">
+              <div class="row">
+                <div class="col col-4 text-center">
+                  <button type="submit" class="btn btn-primary btn-lg">Post</button>
+                </div>
+              </div>
+            </div>
+          </form>
+
+    </div>
+  </body>
+  </html>
