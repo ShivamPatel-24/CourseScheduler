@@ -28,17 +28,22 @@ demoSchedule = [
 
 ]
 
+var finalData = []
+var temp = []
+
+function populateCalendarr(scheduleArray){
+    console.log("EEEE", scheduleArray[0])
+  temp =   formatScheduleJSON(scheduleArray[2])
+    console.log("teemp",temp)
+    getSCHS(temp)
+}
+
+
+
 function formatScheduleJSON(schedule){
 
     formatTime = d => {
-        if(d.includes("PM")){
-            temp1 = d.split(':');
-            console.log("Pm called on ", d);
-            temp1[0] = parseInt(temp1[0])!= 12 ? ((parseInt(temp1[0]) + 12) ).toString() : temp1[0];
-            d = temp1.join(':');
-        }
-        d = d.replace(" AM",'');
-        d = d.replace(" PM",'');
+
 
         temp2 = d.split(":");
         if(temp2[0].length == 1){
@@ -58,7 +63,7 @@ function formatScheduleJSON(schedule){
     }
 
     var event = []
-
+    console.log("schedule", schedule)
     schedule.forEach((item) => {
 
         numOfDays = item["Days"].length;
@@ -71,7 +76,7 @@ function formatScheduleJSON(schedule){
             eDate = dayToDate[item["Days"][i]] + (formatTime(item["EndTime"]));
             
             event.push({
-                title: item["Class"],
+                title: item["Course"],
                 start: sDate,
                 end: eDate
             });
@@ -80,17 +85,14 @@ function formatScheduleJSON(schedule){
         
         console.log("EVENT BROSEPH")
         console.log(event)
-
         return event;
 
 }
 
 
-// formatScheduleJSON(demoSchedule);
-
-
 document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
+    console.log("dfdgdfrghhf",mainSchedule)
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
       initialView: 'timeGridWeek',
@@ -100,11 +102,15 @@ document.addEventListener('DOMContentLoaded', function() {
         center: 'title',
         right: 'timeGridWeek,timeGridDay'
       },
-      events: [ ...formatScheduleJSON(demoSchedule)
+      events: [ ...temp
 
       ]
     });
 
     calendar.render();
   });
+
+
+
+
 

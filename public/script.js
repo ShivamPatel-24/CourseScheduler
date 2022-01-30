@@ -7,7 +7,7 @@ d3.csv("/grade-dist.csv").then(function (data){
     nonGradeItem = ["Course", "Course Title", "Honor", "Instructor", "Number", "Section"];
 
     for( item in nonGradeItem){
-        console.log(nonGradeItem[item])
+        // console.log(nonGradeItem[item])
         delete data[nonGradeItem[item]];
     }
 
