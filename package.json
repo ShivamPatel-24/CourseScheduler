@@ -9,8 +9,14 @@
   "author": "Shivam",
   "license": "ISC",
   "dependencies": {
+    "anychart": "^8.11.0",
+    "autoprefixer": "^10.4.2",
     "body-parser": "^1.19.1",
     "ejs": "^3.1.6",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "fullcalendar": "^5.10.1",
+    "pdfjs-dist": "^2.12.313",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.18"
   }
 }
