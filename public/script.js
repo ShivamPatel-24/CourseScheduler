@@ -32,7 +32,7 @@ function generatePieChart( data){
         
         var chart = anychart.pie();
 
-        chart.title("sample");
+        chart.title("CPSC 2120");
         chart.data(chartData)
 
         chart.container('container')
@@ -41,7 +41,7 @@ function generatePieChart( data){
 
         var chart2 = anychart.pie();
 
-        chart2.title("sample");
+        chart2.title("ENGL 3140");
         chart2.data(chartData)
 
         chart2.container('container')
