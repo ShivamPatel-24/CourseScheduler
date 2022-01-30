@@ -16,19 +16,23 @@
 #home{
     color: #1abc9c;
     border-radius: 12px;
+    font-size: 1.5 rem;
 }
 
 .nav{
     margin-left: 50px;
-    
+
 }
 
 .container {
     color: #fff;
 }
 
-h1{
+h1, h2{
     color: #000000;
+}
+
+h1{
     text-align: center;
 }
 
