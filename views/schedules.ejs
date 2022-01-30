@@ -29,9 +29,9 @@
         });
 
         function myFunction() {
-          var x = document.getElementById("calendar");
+          var x = document.getElementById("schedule");
           if (x.style.display === "none") {
-            x.style.display = "block";
+            x.style.display = "inline-block";
           } else {
             x.style.display = "none";
           }
@@ -44,20 +44,20 @@
     <!-- <div class="Grade Distribution Chart">
         <h1 class=" text-center text-cyan-500 text-5xl">Test</h1>
     </div> -->
+    <button onclick="myFunction()">Click Me</button>
 
-    <div class="grid place-items-center w-4/5">
-
-    </div >
-    <div id="container" style="height:280px; margin-bottom:150px"></div>
-
-    <div class="Grade Distribution Chart">
-        <h1 class=" text-center text-cyan-500 text-5xl">Test</h1>
-    </div>
-
-    <div class="grid place-items-center" style = "display:block; position:absolute" >
-        <button onclick="myFunction()">Click Me</button>
+    <div class="grid grid-rows-1 place-items-center flex" id="schedule" style="display:none">
+    <div class="w3/5" style = "float:left;" >
         <div id="calendar" style="height:800px;  width:800px; margin-top: 250px;">here</div>
     </div>
+
+    <div id="container" class = "border-solid w2/5" style="height:280px; margin-bottom:150px float:right;">
+
+    </div>
+
+    </div >
+
+
 </body>
 
 <script src="script.js"></script>
