@@ -31,7 +31,7 @@
         function myFunction() {
           var x = document.getElementById("schedule");
           if (x.style.display === "none") {
-            x.style.display = "inline-block";
+            x.style.display = "block";
           } else {
             x.style.display = "none";
           }
@@ -41,19 +41,16 @@
 </head>
 <body background = "https://wallup.net/wp-content/uploads/2019/10/593967-clemson-tigers-college-football.jpg">
 
-    <!-- <div class="Grade Distribution Chart">
-        <h1 class=" text-center text-cyan-500 text-5xl">Test</h1>
-    </div> -->
     <button onclick="myFunction()">Click Me</button>
 
-    <div class="grid grid-rows-1 place-items-center flex" id="schedule" style="display:none">
-    <div class="w3/5" style = "float:left;" >
-        <div id="calendar" style="height:800px;  width:800px; margin-top: 250px;">here</div>
-    </div>
+    <div class="place-items-center" id="schedule" style="">
 
-    <div id="container" class = "border-solid w2/5" style="height:280px; margin-bottom:150px float:right;">
+      <div class="w3/5 place-items-center" style = "margin:0 20%;" >
+          <div id="calendar" style="height:800px; width:800px; margin-top: 20px; text-align:center;"></div>
+      </div>
 
-    </div>
+      <div id="container" class = "border-solid w2/5" style="height:280px; margin-bottom:150px">
+      </div>
 
     </div >
 
