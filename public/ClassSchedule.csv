@@ -1,0 +1,211 @@
+﻿Course,Course Number,Course Title,Credit Hours,Instructor,Days,Location,Start Time,End Time
+CPSC,2120,Algorithms and Data Structures,4,Nicolas Benjamin Widman,TR,Online,15:30:00,16:45:00
+CPSC,2120,Algorithms and Data Structures,4,Pradip K. Srimani,Asynchronous,Online,,
+CPSC,2121,Algorithms and Data Structures Laboratory,0,NIcolas Benjamin Widman,MW,Barre Hall,9:05:00,9:55:00
+CPSC,2121,Algorithms and Data Structures Laboratory,0,NIcolas Benjamin Widman,MW,Barre Hall,10:10:00,11:00:00
+CPSC,2121,Algorithms and Data Structures Laboratory,0,NIcolas Benjamin Widman,MW,Barre Hall,13:25:00,14:15:00
+CPSC,2121,Algorithms and Data Structures Laboratory,0,NIcolas Benjamin Widman,MW,Barre Hall,14:30:00,15:20:00
+CPSC,2121,Algorithms and Data Structures Laboratory,0,NIcolas Benjamin Widman,MW,Barre Hall,15:30:00,16:20:00
+CPSC,2150,Software Development Foundations,3,Yu-Shan Sun,MW,Hendrix Student Center,8:00:00,8:50:00
+CPSC,2150,Software Development Foundations,3,Yu-Shan Sun,MW,Hendrix Student Center,9:00:00,9:55:00
+CPSC,2150,Software Development Foundations,3,Murali Sitaraman,MW,Online,13:25:00,14:15:00
+CPSC,2151,Software Development Foundations Laboratory,0,Yu-Shan Sun,M,Online,11:15:00,13:05:00
+CPSC,2151,Software Development Foundations Laboratory,0,Yu-Shan Sun,M,Online,14:30:00,16:20:00
+CPSC,2151,Software Development Foundations Laboratory,0,Yu-Shan Sun,M,Online,16:30:00,18:20:00
+CPSC,2151,Software Development Foundations Laboratory,0,Yu-Shan Sun,W,Online,11:15:00,13:05:00
+CPSC,2151,Software Development Foundations Laboratory,0,Yu-Shan Sun,W,Online,14:30:00,4:20:00
+CPSC,2151,Software Development Foundations Laboratory,0,Yu-Shan Sun,W,Online,16:30:00,6:20:00
+CPSC,2310,Introduction to Computer Organization,4,Yvon H. Feaster,MWF,Online,10:10:00,11:00:00
+CPSC,2200,Problem Solving with Office Applications,3,Catherine Ann Kittelstad,MW,Online,11:15:00,12:05:00
+CPSC,2200,Problem Solving with Office Applications,3,Catherine Ann Kittelstad,MW,Online,11:15:00,12:05:00
+CPSC,2070,Discrete Structures for Computing,3,Kai Liu,TR,Online,9:30:00,10:45:00
+CPSC,2070,Discrete Structures for Computing,3,Sandra M Hedetniemi,Asynchronous,Online,,
+CPSC,2920,"Computing, Ethics, and Global Society",3,Julian Langston Brinkley,MW,Online,9:05:00,9:55:00
+CPSC,2910,Seminar in Professional Issues I,1,Connie Taylor,M,Hendrix Student Center,14:30:00,15:20:00
+CPSC,2910,Seminar in Professional Issues I,1,Connie Taylor,W,Hendrix Student Center,14:30:00,15:20:00
+CPSC,2910,Seminar in Professional Issues I,1,Connie Taylor,F,Hendrix Student Center,14:30:00,15:20:00
+MATH,2060,Calculus of Several Variables,4,Timothy Franklin Parrott,MTWF,Online,8:00:00,8:50:00
+MATH,2060,Calculus of Several Variables,4,Timothy Franklin Parrott,MTWF,Online,9:05:00,9:55:00
+MATH,2060,Calculus of Several Variables,4,Timothy Franklin Parrott,MTWF,Online,11:00:00,11:50:00
+MATH,2060,Calculus of Several Variables,4,Timothy Charles Teitloff,MTWF,Holtzendorff Hall,12:20:00,13:10:00
+MATH,2060,Calculus of Several Variables,4,Timothy Charles Teitloff,MTWF,Fike Recreation Center,13:25:00,14:15:00
+MATH,3110,Linear Algebra,3,Beth A Novick,MWF,Online,9:05:00,9:55:00
+MATH,3110,Linear Algebra,3,Nantsoina Cynthia Ramiharimanana,MFW,Fike Recreation Center,10:10:00,11:00:00
+MATH,3110,Linear Algebra,3,Nantsoina Cynthia Ramiharimanana,MFW,Daniel Hall,12:20:00,13:10:00
+MATH,3110,Linear Algebra,3,Benjamin Kibort Breen,TR,Online,12:30:00,13:45:00
+MATH,3110,Linear Algebra,3,Benjamin Kibort Breen,TR,Online,12:30:00,13:45:00
+STAT,3090,Introductory Business Statistics,3,Marwah Mahmoud Soliman,MWF,Dillard Building,8:00:00,8:50:00
+STAT,3090,Introductory Business Statistics,3,Shuai Wei,MWF,Online,9:05:00,9:55:00
+STAT,3090,Introductory Business Statistics,3,Marwah Mahmoud Soliman,MWF,Dillard Building,10:10:00,11:00:00
+STAT,3090,Introductory Business Statistics,3,Caroline Kerfonta,MWF,Dillard Building,11:15:00,12:05:00
+STAT,3090,Introductory Business Statistics,3,Molly Adams Honecker,MWF,Online,12:20:00,1:10:00
+STAT,3090,Introductory Business Statistics,3,Sarah M Kelly,MWF,Online,13:25:00,14:15:00
+STAT,3090,Introductory Business Statistics,3,Tiantian Yang,MW,Online,14:30:00,15:45:00
+STAT,3090,Introductory Business Statistics,3,Sean Walker Ingimarson,MW,Online,16:00:00,17:15:00
+STAT,3090,Introductory Business Statistics,3,April Thomas,TR,Online,8:00:00,9:15:00
+STAT,3090,Introductory Business Statistics,3,April Thomas,TR,Online,9:30:00,10:45:00
+PHYS ,2210,Physics with Calculus II,3,Jason Stratford Brown,MWF,Online,12:20:00,13:10:00
+PHYS ,2210,Physics with Calculus II,3,Jason Stratford Brown,MWF,Online,13:25:00,14:15:00
+PHYS ,2210,Physics with Calculus II,3,Sean D Brittain,TR,Hendrix Student Center,8:00:00,9:15:00
+PHYS ,2210,Physics with Calculus II,3,Murray S Draw,MWF,Freeman Hall,10:10:00,11:00:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,M,Online,15:35:00,18:25:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,M,Online,18:40:00,21:30:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,T,Online,11:00:00,13:50:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,T,Online,14:10:00,17:00:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,T,Online,17:20:00,20:10:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,W,Online,14:30:00,17:20:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,W,Online,18:00:00,20:50:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,R,Online,12:30:00,15:20:00
+PHYS ,2230,Physics Laboratory II,1,Aniruddha Pan,R,Online,9:30:00,12:20:00
+STS,1010,Survey of Science and Technology in Society,3,Megan Palmer,TR,Online,11:00:00,12:15:00
+STS,1010,Survey of Science and Technology in Society,3,Scott E Brame,TR,Online,9:30:00,10:45:00
+STS,1010,Survey of Science and Technology in Society,3,Elizabeth Anderson Stansell,MWF,Online,12:20:00,13:10:00
+STS,1010,Survey of Science and Technology in Society,3,Chelsea Marie Clarey,MWF,Online,13:25:00,14:15:00
+STS,1010,Survey of Science and Technology in Society,3,Tareva Leselle Johnson,TR,Online,11:00:00,12:15:00
+STS,1010,Survey of Science and Technology in Society,3,Nancy Paxton-Wilson,TR,Online,8:00:00,9:15:00
+STS,1010,Survey of Science and Technology in Society,3,Philip D Randall,TR,Online,8:00:00,9:15:00
+STS,1010,Survey of Science and Technology in Society,3,David Charles Foltz,TR,Cooper Library,14:00:00,15:15:00
+STS,1010,Survey of Science and Technology in Society,3,Megan MacAlystre,MWF,Online,13:25:00,14:15:00
+STS,1010,Survey of Science and Technology in Society,3,Alexander John Billinis,MWF,Hendrix Student Center,8:00:00,8:50:00
+STS,1010,Survey of Science and Technology in Society,3,Anne McMahan Grant,TR,Online,15:30:00,16:45:00
+COMM,1500,Introduction to Human Communication,3,Daniel Leland Fecher,MW,Online,10:10:00,11:00:00
+COMM,1500,Introduction to Human Communication,3,Daniel Leland Fecher,MW,Online,8:00:00,8:50:00
+COMM,1500,Introduction to Human Communication,3,Daniel Leland Fecher,MW,Online,9:05:00,9:55:00
+COMM,1500,Introduction to Human Communication,3,Marianne Herr Glaser,MW,Online,10:10:00,11:00:00
+COMM,1500,Introduction to Human Communication,3,Marianne Herr Glaser,MW,Online,11:15:00,12:05:00
+COMM,1500,Introduction to Human Communication,3,Vanessa Anne Condon,TR,Online,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Collge of Business,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Watt Family Innovation Center,9:05:00,9:55:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Hendrix Student Center,11:15:00,12:05:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Biosystems Research Complex,11:15:00,12:05:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,TR,Collge of Business,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,TR,Watt Family Innovation Center,9:30:00,10:20:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,TR,Collge of Business,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,TR,Online,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,TR,Sirrine Hall,12:30:00,13:20:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,TR,Dillard Building,9:30:00,10:20:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Sirrine Hall,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Lowry Hall,10:10:00,11:00:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Hendrix Student Center,10:10:00,11:00:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Lowry Hall,11:15:00,12:05:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Hendrix Student Center,8:00:00,8:05:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Daniel Leland Fecher,MW,Collge of Business,11:15:00,12:05:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,9:05:00,9:55:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,11:15:00,12:05:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,9:00:00,9:55:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Collge of Business,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,8:00:00,8:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Sirrine Hall,9:05:00,9:55:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,10:10:00,11:00:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,9:05:00,9:55:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,MW,Online,10:10:00,11:00:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Vanessa Anne Condon,TR,Hendrix Student Center,9:30:00,10:20:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Vanessa Anne Condon,TR,Sirrine Hall,14:00:00,14:50:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Vanessa Anne Condon,TR,Watt Family Innovation Center,12:30:00,13:20:00
+COMM,1501,Introduction to Human Communication Laboratory,0,Marianne Herr Glaser,TR,Freeman Hall,9:30:00,10:20:00
+ENGL,2120,World Literature,3,Kenneth Michael Tuite,TR,Online,8:00:00,9:15:00
+ENGL,2120,World Literature,3,David Charles Foltz,MWF,Online,13:25:00,14:15:00
+ENGL,2120,World Literature,3,Kenneth Michael Tuite,TR,Online,11:00:00,12:15:00
+ENGL,2120,World Literature,3,Andrew P Mathas,TR,Online,12:30:00,13:45:00
+ENGL,2120,World Literature,3,David Charles Foltz,MWF,Online,12:02:00,13:10:00
+ENGL,2120,World Literature,3,Andrew P Mathas,TR,Online,14:00:00,15:15:00
+ENGL,2120,World Literature,3,Sarah M Cooper,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Sarah M Cooper,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Sarah M Cooper,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Sarah M Cooper,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Lucian Ghita,MWF,Online,8:00:00,8:50:00
+ENGL,2120,World Literature,3,Lucian Ghita,MWF,Online,9:05:00,9:55:00
+ENGL,2120,World Literature,3,Lucian Ghita,MWF,Online,10:10:00,11:00:00
+ENGL,2120,World Literature,3,Lucian Ghita,MWF,Online,11:15:00,12:05:00
+ENGL,2120,World Literature,3,Caitlin Grace Watt,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Caitlin Grace Watt,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Caitlin Grace Watt,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Caitlin Grace Watt,Asynchronous,Online,,
+ENGL,2120,World Literature,3,April Ayers Lawson,Asynchronous,Online,,
+ENGL,2120,World Literature,3,April Ayers Lawson,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Karen N Kettnich,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Karen N Kettnich,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Melissa Makala,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Melissa Makala,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Melissa Makala,Asynchronous,Online,,
+ENGL,2120,World Literature,3,Angela M Naimou,TR,Daniel Hall,14:00:00,15:15:00
+CH,1020,General Chemistry,4,Dennis F Taylor,MWF,Online,9:05:00,9:55:00
+CH,1020,General Chemistry,4,Tania Houjeiry,MWF,Hendrix Student Center,10:10:00,11:00:00
+CH,1020,General Chemistry,4,William Wesley McWHorter,MWF,Tillman Hall,11:15:00,12:05:00
+CH,1020,General Chemistry,4,William Wesley McWHorter,MWF,Tillman Hall,12:20:00,13:10:00
+CH,1020,General Chemistry,4,Olt E Geiculescu,MWF,Brooks Center/Performing Arts,13:25:00,14:15:00
+CH,1020,General Chemistry,4,Jacob D Schroeder,TR,Online,8:00:00,9:15:00
+CH,1020,General Chemistry,4,MyCia Cox,TR,Online,9:30:00,10:45:00
+CH,1020,General Chemistry,4,Jacob D Schroeder,TR,Online,11:00:00,12:15:00
+CH,1020,General Chemistry,4,Jacob D Schroeder,TR,Online,14:00:00,15:15:00
+CH,1020,General Chemistry,4,Stephen Jon Schvaneveldt,MWF,Strom Thurmond Institute,11:15:00,12:05:00
+CH,1020,General Chemistry,4,Shiou-jyh Hwu,TR,Holtzendorff Hall,11:00:00,12:15:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,M,Online,9:05:00,11:55:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,M,Online,12:20:00,15:10:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,M,Online,15:35:00,18:25:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,T,Online,9:30:00,12:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,T,Online,12:30:00,15:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,T,Online,15:30:00,18:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,T,Online,18:30:00,21:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,W,Online,9:05:00,11:55:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,W,Online,12:20:00,15:10:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,W,Online,15:35:00,18:25:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,R,Online,9:30:00,12:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,R,Online,12:30:00,15:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,R,Online,15:30:00,18:20:00
+CH,1021,General Chemistry Laboratory,0,Vivian Chibuzo Ezeh,R,Online,18:30:00,21:20:00
+BIOL,1040,General Biology II,3,Salvatore A Sparace,TR,Online,14:00:00,15:15:00
+BIOL,1040,General Biology II,3,Nora  R Espinoza,MWF,Online,9:05:00,9:55:00
+BIOL,1040,General Biology II,3,Salvatore A Sparace,TR,Online,9:30:00,10:45:00
+BIOL,1040,General Biology II,3,Donna Ruth Weinbrenner,MWF,Online,9:05:00,9:55:00
+BIOL,1040,General Biology II,3,Nora  R Espinoza,MWF,Online,10:10:00,11:00:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,T,Shooting Range,9:00:00,10:30:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,T,Shooting Range,10:45:00,12:15:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,T,Shooting Range,12:30:00,14:00:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,T,Shooting Range,14:15:00,15:45:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,R,Shooting Range,9:00:00,10:30:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,R,Shooting Range,10:45:00,12:15:00
+LS,1560,Riflery I,1,Dominic E Cirocco,F,Shooting Range,9:05:00,10:35:00
+LS,1560,Riflery I,1,Dominic E Cirocco,F,Shooting Range,10:50:00,12:20:00
+LS,1560,Riflery I,1,Dominic E Cirocco,F,Shooting Range,12:35:00,14:05:00
+LS,1560,Riflery I,1,Hubert L Cox Jr,W,Shooting Range,14:45:00,16:15:00
+LS,1790,Scuba I,1,Robert O Bogan,W,Tillman Hall,18:00:00,20:30:00
+MGT,2010,Principles of Management,3,Katherine D Clark,Asynchronous,Online,,
+MGT,2010,Principles of Management,3,Jonathan Preedom,MW,Online,14:30:00,15:45:00
+MGT,2010,Principles of Management,3,Shuang Liu,MWF,Collge of Business,8:00:00,8:50:00
+MGT,2010,Principles of Management,3,Shuang Liu,MWF,Collge of Business,9:05:00,9:55:00
+MGT,2010,Principles of Management,3,Liz Laxton,TR,Online,15:30:00,16:45:00
+MGT,2010,Principles of Management,3,Keith W Balts,MWF,Collge of Business,10:10:00,11:00:00
+MGT,2010,Principles of Management,3,Liz Laxton,MWF,Collge of Business,12:20:00,13:10:00
+MGT,2010,Principles of Management,3,Jingyuan Tian,MWF,Collge of Business,13:25:00,14:15:00
+MGT,2010,Principles of Management,3,David Ford Peyton,MW,Cooper Library,17:45:00,19:00:00
+MGT,2010,Principles of Management,3,Christopher R Mann,TR,Fike Recreation Center,8:00:00,9:15:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-M,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-M,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-M,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-M,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-M,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-T,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-W,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-W,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-W,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Brad Hobbs,MW-T,Online,12:20:00,13:10:00
+ECON,2120,Principles of Macroeconomics,3,Ilya Polovinkov,TR,Tillman Hall,15:30:00,16:45:00
+ECON,2120,Principles of Macroeconomics,3,Yinlin Dai,MW,Fike Recreation Center,14:30:00,15:45:00
+ECON,2120,Principles of Macroeconomics,3,Tyler Francis,MWF,Martin Hall,9:05:00,9:55:00
+ECON,2120,Principles of Macroeconomics,3,Tyler Francis,MWF,Martin Hall,10:10:00,11:00:00
+ECON,2120,Principles of Macroeconomics,3,Matthew Lee Cronin,TR,Tillman Hall,12:30:00,13:45:00
+ECON,2120,Principles of Macroeconomics,3,Matthew Lee Cronin,TR,Poole Agricultural Center,8:00:00,9:15:00
+ECON,2120,Principles of Macroeconomics,3,Benjamin James Posmanick,Asynchronous,Online,,
+ECON,2120,Principles of Macroeconomics,3,Krishna Khatri,MWF,Martin Hall,8:00:00,8:50:00
+ECE,2010,Logic and Computing Devices,3,Lin Zhu,TR,Online,12:30:00,13:45:00
+ECE,2720,Computer Organization,3,William J Reid III,TR,Online,12:30:00,13:45:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,M,Online,12:20:00,14:20:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,M,Online,16:00:00,18:00:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,T,Online,14:00:00,16:00:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,T,Online,16:00:00,18:00:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,W,Online,12:20:00,14:20:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,W,Online,16:30:00,18:30:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,R,Online,14:00:00,16:00:00
+ECE,2730,Computer Organization Laboratory,1,Apoorva Deepak Kapadia,R,Online,16:40:00,18:40:00

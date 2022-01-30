@@ -1,8 +1,69 @@
-<%- include("header") %>
 
 
 <h1>This worked</h1>
 
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <script src="https://cdn.anychart.com/releases/8.0.1/js/anychart-core.min.js"></script>
+        <script src="https://cdn.anychart.com/releases/8.0.1/js/anychart-pie.min.js"></script>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.js"></script>
+        <base href="/">
+        <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.css">
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', function() {
+          var calendarEl = document.getElementById('calendar');
+          var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: 'timeGridWeek'
+          });
+          calendar.render();
+        });
+
+        function myFunction() {
+          var x = document.getElementById("schedule");
+          if (x.style.display === "none") {
+            x.style.display = "inline-block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+
+      </script>
+</head>
+<body background = "https://wallup.net/wp-content/uploads/2019/10/593967-clemson-tigers-college-football.jpg">
+
+    <!-- <div class="Grade Distribution Chart">
+        <h1 class=" text-center text-cyan-500 text-5xl">Test</h1>
+    </div> -->
+    <button onclick="myFunction()">Click Me</button>
+
+    <div class="grid grid-rows-1 place-items-center flex" id="schedule" style="display:none">
+    <div class="w3/5" style = "float:left;" >
+        <div id="calendar" style="height:800px;  width:800px; margin-top: 250px;">here</div>
+    </div>
+
+    <div id="container" class = "border-solid w2/5" style="height:280px; margin-bottom:150px float:right;">
+
+    </div>
+
+    </div >
 
 
-<%- include("footer") %>
+</body>
+
+<script src="script.js"></script>
+<script src="calendar-script.js"></script>
+<script src="searchSchedule.js"></script>
+
+
+
+</html>
