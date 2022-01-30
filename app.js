@@ -7,6 +7,16 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 var classes = [];
+allPosts = [];
+// allFilters = [];
+
+const post = {
+    title: "CPSC 2120 with Dr. Dean",
+    content: "Recommendation = highTolaranceOfFailure && (Learning > Grades) ? Definetely : Good luck!"
+}
+
+allPosts.push(post);
+
 
 // sending the html to the home page
 app.get('/', (req, res) => {
@@ -27,5 +37,26 @@ app.post('/', (req, res) => {
 app.get('/schedules', (req, res) => {
     res.render("schedules");
 })
+
+app.get('/posts', (req, res) => {
+    res.render("posts", {Posts: allPosts });
+});
+
+app.get('/compose', (req, res) => {
+    res.render("review");
+})
+
+app.post("/compose", (req, res) => {
+    const post = {
+      title: req.body.postTitle,
+      content: req.body.postBody
+    }
+  
+    allPosts.push(post);
+    res.redirect("/posts");
+  
+  })
+
+
 
 app.listen(3000);
