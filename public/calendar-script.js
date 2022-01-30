@@ -32,8 +32,10 @@ var finalData = []
 var temp = []
 
 function populateCalendarr(scheduleArray){
+    randomNum = Math.floor(Math.random() * scheduleArray.length);
+    console.log("RANDOM", randomNum)
     console.log("EEEE", scheduleArray[0])
-  temp =   formatScheduleJSON(scheduleArray[2])
+  temp =   formatScheduleJSON(scheduleArray[randomNum])
     console.log("teemp",temp)
     getSCHS(temp)
 }
@@ -74,7 +76,7 @@ function formatScheduleJSON(schedule){
 
             sDate = dayToDate[item["Days"][i]] + (formatTime(item["StartTime"]));
             eDate = dayToDate[item["Days"][i]] + (formatTime(item["EndTime"]));
-            
+
             event.push({
                 title: item["Course"],
                 start: sDate,
@@ -82,7 +84,7 @@ function formatScheduleJSON(schedule){
             });
         }
     });
-        
+
         console.log("EVENT BROSEPH")
         console.log(event)
         return event;
@@ -109,8 +111,3 @@ document.addEventListener('DOMContentLoaded', function() {
 
     calendar.render();
   });
-
-
-
-
-
