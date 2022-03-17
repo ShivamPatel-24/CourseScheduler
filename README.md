@@ -1,6 +1,5 @@
-This is a Node js app that generates college class schedules.
+# Course Scheduler
 
-Intended for use by student, the web app utilizes actual data regarding classes/times from clemson university.
+Clemson University Annual Hackathon (29-30th January 2022) project:
 
-To start the app, install the dependencies and then use the command:
-"node app.js"
+The web app lets users (students) enter their desired classes for the upcoming semester and generates a chart of multiple schedule options to navigate and grade distributions pie charts of those classes. There is a feature to add and view the reviews of the classes and instructors.
